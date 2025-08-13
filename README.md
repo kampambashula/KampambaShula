@@ -1,4 +1,4 @@
-# Weclome 👋, I'm Kampamba Shula
+# Welcome 👋, I'm Kampamba Shula
 
 ### 🌟 Data Scientist | Economist | Software Developer
 
