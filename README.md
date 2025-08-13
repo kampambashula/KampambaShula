@@ -38,9 +38,6 @@ I build **impactful software solutions** and **data-driven dashboards** for real
 | **Interactive LMS** | Custom online learning platform tailored to Zambian curriculum. | [View Demo](https://lms.example.com) ![LMS](https://img.shields.io/badge/Live-LMS-orange?style=for-the-badge) |
 | **Economic Growth Simulator** | Predicts Zambia’s economic growth using system dynamics & ML. | [View Demo](https://economicsim.example.com) ![Simulator](https://img.shields.io/badge/Live-Simulator-red?style=for-the-badge) |
 
-> 🔹 Each banner badge is clickable, linking to the live deployed app.  
-> 🔹 This section updates automatically when you add new projects and their links.
-
 ---
 
 ## 🌍 Featured Projects
