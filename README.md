@@ -77,8 +77,8 @@ Simulates market dynamics and agent behaviors with interactive visualizations.
 ## 📫 Contact Me
 
 - Twitter: [@KampambaShula](https://twitter.com/KampambaShula)  
-- LinkedIn: [Kampamba Shula](https://www.linkedin.com/in/kampambashula/)  
-- Email: kampambashula@example.com
+- LinkedIn: [Kampamba Shula](https://www.linkedin.com/in/kampamba-shula-03946633/)
+- Email: kampambashula@gmail.com
 
 ---
 
