@@ -16,6 +16,9 @@ I build **impactful software solutions** and **data-driven dashboards** for real
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/kampambashula/my-repo?style=social)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kampambashula&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ## 🛠 Skills & Technologies
