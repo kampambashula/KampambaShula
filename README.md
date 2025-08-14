@@ -14,6 +14,8 @@ I build **impactful software solutions** and **data-driven dashboards** for real
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KampambaShula&theme=radical&border_radius=5&fire=FF6D00)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/kampambashula/my-repo?style=social)
+
 ---
 
 ## 🛠 Skills & Technologies
