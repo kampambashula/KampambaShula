@@ -1,7 +1,7 @@
 **Data Scientist | Economist | Software Developer**  
 *Turning data into actionable insight for Zambia & emerging markets*  
 
-**Impact Areas:** Health · Trade · Education · AI · GovTech  
+**Impact Areas:** Finance - Health · Trade · Education · AI · GovTech  
 
 ---
 
