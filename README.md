@@ -28,4 +28,4 @@ Javascript - Node - Python · Django · React · TypeScript · PostgreSQL · Plo
 ---
 
 ## 📫 Connect
-[Twitter](https://twitter.com/KampambaShula) · [LinkedIn](https://www.linkedin.com/in/kampamba-shula-03946633/) · Email: kampambashula@gmail.com
+[Twitter](https://twitter.com/KampambaShula) · [LinkedIn](https://www.linkedin.com/in/kampamba-shula-03946633/) · Email: kampamba.shula@kampambashula.com
