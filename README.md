@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 Tech Stack
-Python · Django · React · TypeScript · PostgreSQL · Plotly · Docker · Git
+Javascript - Node - Python · Django · React · TypeScript · PostgreSQL · Plotly · Docker · Git
 
 ---
 
