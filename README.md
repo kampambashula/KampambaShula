@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kampamba Shula  
+Kampamba Shula  
 
 **Data Scientist | Economist | Software Developer**  
 *Turning data into actionable insight for Zambia & emerging markets*  
