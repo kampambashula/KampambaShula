@@ -5,14 +5,6 @@
 
 ---
 
-## 📊 GitHub Highlights
-[![Stats](https://github-readme-stats.vercel.app/api?username=KampambaShula&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/KampambaShula)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KampambaShula&layout=compact&theme=radical&hide_border=true)](https://github.com/KampambaShula)  
-[![Streak](https://streak-stats.demolab.com?user=KampambaShula&theme=radical&border_radius=5&fire=FF6D00&hide_border=true)](https://github.com/KampambaShula)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KampambaShula&theme=onedark&margin-w=5&margin-h=5&no-frame=true)](https://github.com/KampambaShula)
-
----
-
 ## 🛠 Tech Stack
 Javascript - Node - Python · Django · React · TypeScript · PostgreSQL · Plotly · Docker · Git
 
