@@ -1,12 +1,15 @@
-**Data Scientist | Economist | Software Developer**  
-*Turning data into actionable insight for Zambia & emerging markets*  
+## **Data Scientist | Economist | Software Developer**
+*Turning data into actionable insight for Zambia & emerging markets*
 
-**Impact Areas:** Finance - Health · Trade · Education · AI · GovTech  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KampambaShula&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KampambaShula&layout=compact&theme=transparent&hide_border=true)
+
+**Impact Areas:** Finance · Health · Trade · Education · AI · GovTech
 
 ---
 
 ## 🛠 Tech Stack
-Javascript - Node - Python · Django · React · TypeScript · PostgreSQL · Plotly · Docker · Git
+JavaScript · Node.js · Python · Django · React · TypeScript · PostgreSQL · Plotly · Docker · Git
 
 ---
 
