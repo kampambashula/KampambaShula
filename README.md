@@ -1,8 +1,16 @@
 ## **Data Scientist | Economist | Software Developer**
 *Turning data into actionable insight for Zambia & emerging markets*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KampambaShula&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KampambaShula&layout=compact&theme=transparent&hide_border=true)
+<!-- GitHub Stats Badges -->
+![GitHub Followers](https://img.shields.io/github/followers/KampambaShula?label=Followers&style=flat-square)
+![GitHub Repos](https://img.shields.io/github/repos/KampambaShula?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/KampambaShula?style=flat-square)
+
+<!-- GitHub Activity Graph -->
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=KampambaShula&theme=react-dark&hide_border=true)
+
+<!-- Top Languages Chart -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KampambaShula&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 **Impact Areas:** Finance · Health · Trade · Education · AI · GovTech
 
