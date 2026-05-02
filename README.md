@@ -113,6 +113,6 @@ CTO @ Nsembe Technologies      📍 Lusaka, Zambia
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kampambashula&style=flat-square&color=58A6FF" alt="Profile views"/>
   <br/>
-  <sub>⚡ Stats update automatically on every push · Lusaka, Zambia 🇿🇲</sub>
+  <sub>⚡ Lusaka, Zambia 🇿🇲</sub>
 </div>
 
