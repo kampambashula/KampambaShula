@@ -64,31 +64,6 @@ CTO @ Nsembe Technologies      📍 Lusaka, Zambia
 ## 📊 GitHub Stats
 
 
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=kampambashula&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kampambashula&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=kampambashula&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kampambashula&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
 <div align="center">
 
 <!-- Streak stats — auto-updates with every commit -->
