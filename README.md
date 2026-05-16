@@ -63,26 +63,7 @@ CTO @ Nsembe Technologies      📍 Lusaka, Zambia
 
 ## 📊 GitHub Stats
 
-### 📊 Codebase Intelligence
 
-> Language distribution is computed from the full GitHub codebase under the profile: https://github.com/kampambashula  
-> It aggregates all repositories owned by the account and reflects true line-of-code composition across Rust, TypeScript, Python, etc. (excluding dependencies and generated files).
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=kampambashula&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-
-&nbsp;&nbsp;
-
-<!-- Language breakdown (GitHub profile-wide aggregation) -->
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kampambashula&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=kampambashula&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
