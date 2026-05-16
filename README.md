@@ -65,21 +65,36 @@ CTO @ Nsembe Technologies      📍 Lusaka, Zambia
 
 ### 📊 Codebase Intelligence
 
-> Language distribution is computed from the full aggregated codebase across all repositories using line-of-code analysis. This reflects actual system composition (Rust, TypeScript, Python, etc.), excluding dependencies, vendor files, and generated artifacts.
+> Language distribution is computed from the full GitHub codebase under the profile: https://github.com/kampambashula  
+> It aggregates all repositories owned by the account and reflects true line-of-code composition across Rust, TypeScript, Python, etc. (excluding dependencies and generated files).
 
 <div align="center">
 
-<!-- GitHub stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kampambashula&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<!-- GitHub Stats -->
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=kampambashula&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
 &nbsp;&nbsp;
 
-<!-- NOTE: Replace with LOC-based aggregated language API for true accuracy -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kampambashula&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<!-- Language breakdown (GitHub profile-wide aggregation) -->
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kampambashula&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=kampambashula&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kampambashula&theme=github-compact&hide_border=true&area=true" />
+
+</div>
 
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=kampambashula&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
